@@ -70,7 +70,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>amsmvc2024</finalName>
+		<finalName>amsmvc2024v1</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
